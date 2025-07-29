@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js, DSA**
 
-- 💬 Ask me about **MERN,Python, OOPS**
+- 💬 Ask me about **MERN,OOPS**
 
 - 📫 How to reach me **work.akshitsharma@gmail.com**
 
